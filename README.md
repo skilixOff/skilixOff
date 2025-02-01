@@ -12,4 +12,4 @@
 
 - DonationAlerts: [@skilix_off](https://www.donationalerts.com/r/skilix_off)
 - Youtube: [@skilixmystic](https://youtube.com/@skilixmystic?si=jmlXqCeS1P0gi0iA)
-- Discord: [@skilix2](https//example.com)
+- Discord: [@skilix2](https://example.com)
